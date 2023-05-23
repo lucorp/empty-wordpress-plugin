@@ -1,6 +1,8 @@
 Empty WordPress Plugin
 ======================
 
+WARNING: Really outdated. Don't use this one!
+
 Empty skeleteon for creating new wordpress plugin.
 
 License: GNU General Public License v3.0
